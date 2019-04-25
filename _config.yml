@@ -1,0 +1,13 @@
+# General Jekyll Config
+highlighter: rogue
+name: Kevin Phan
+description: California State University Long Beach College of Engineering - 4th year Graduating spring 2020
+url: "http://bluasterisk.github.io/"
+lsi: false
+
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, gemfile.lock]
+
+# build settings
+permalink: pretty
+markdown: kramdown
+theme: jekyll-theme-minimal
